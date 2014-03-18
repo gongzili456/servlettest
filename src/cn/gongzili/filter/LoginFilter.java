@@ -18,6 +18,10 @@ public class LoginFilter implements Filter {
 	 */
 	public LoginFilter() {
 		// TODO Auto-generated constructor stub
+		
+		System.out.println("构造");
+		System.out.println("构造");
+		System.out.println("构造");
 	}
 
 	/**
